@@ -1,0 +1,7 @@
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\HelloWorld3.exe.config
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\HelloWorld3.exe
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\bin\Debug\HelloWorld3.pdb
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\HelloWorld3.csproj.AssemblyReference.cache
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\HelloWorld3.csproj.CoreCompileInputs.cache
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\HelloWorld3.exe
+C:\Source\GitHubClone\HelloWorld3\HelloWorld3\HelloWorld3\obj\Debug\HelloWorld3.pdb
