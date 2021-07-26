@@ -10,7 +10,7 @@ namespace HelloWorld3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World 3 Release");
+            Console.WriteLine("Hello World 4 Release");
             Console.ReadKey();
         }
     }
